@@ -1,4 +1,4 @@
-<?
+<?php
 class Modifier_kill_smart_quotes extends Modifier
 {
     public function index($value, $parameters=array())
